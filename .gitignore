@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+
+.env
+.env.*
+!.env.example
+
+output/
+
+.vscode/
+
+/data/yedek_customers_raw.csv

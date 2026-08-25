@@ -1,0 +1,21 @@
+﻿customer_id,name,email,country,signup_date,status,age
+C001,Ali Yılmaz,ali.yilmaz@example.com,TR,2026-01-05,ACTIVE,29
+C002,Ayşe Demir,ayse.demir@example.com,TR,2026-01-12,INACTIVE,34
+C003,Mehmet Kaya,mehmet.kaya@example.com,TR,2026-02-03,ACTIVE,41
+C004,Elif Şahin,elif.sahin@example.com,TR,2026-02-17, ACTIVE ,27
+C005,John Smith,john.smith@example.com,UK,2026-03-01,ACTIVE,38
+C006,Maria Rossi,maria.rossi@example.com,IT,2026-03-04,active,31
+C007,Anna Müller,anna.muller@example.com,DE,2026-03-11,INACTIVE,45
+C008,Pierre Martin,,FR,2026-03-20,ACTIVE,36
+C009,Zeynep Aydın,zeynep.aydin@example.com,TR,2026-04-02,ACTIVE,
+C010,Can Arslan,can.arslan@example.com,TR,2026-04-08,INACTIVE,25
+C011,Sofia Garcia,sofia.garcia@example.com,ES,2026-04-14,ACTIVE,30
+C012,Kerem Çelik,kerem.celik@example.com,TR,2026-04-19,UNKNOWN,33
+C013,Emma Wilson,emma.wilson@example.com,UK,2026-05-03,ACTIVE,28
+C014,Luca Bianchi,luca.bianchi@example.com,IT,2026-05-15,INACTIVE,52
+C015,Selin Koç,selin.koc@example.com,TR,2026-05-21,ACTIVE,26
+C003,Mehmet Kaya,mehmet.kaya@example.com,TR,2026-02-03,ACTIVE,41
+,Mert Öz,mert.oz@example.com,TR,2026-06-02,ACTIVE,24
+C017,Deniz Aksoy,deniz.aksoy@example.com,TR,2026/06/10,ACTIVE,29
+C018,Laura Brown,laura.brown@example.com,US,2026-06-18,INACTIVE,39
+C019,Burak Yıldız,burak.yildiz@example.com,TR,2026-06-25,ACTIVE,thirty
