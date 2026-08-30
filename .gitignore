@@ -13,3 +13,5 @@ output/
 .vscode/
 
 /data/yedek_customers_raw.csv
+
+.DS_Store
